@@ -38,6 +38,7 @@ To explain what happened and why, humans build causal models of the world to men
 
 ### Research assistants
 
+- [Zhuoyi Huang](https://www.linkedin.com/in/zhuoyi-huang) (Computer Science)
 - [Shruti Sridhar](https://profiles.stanford.edu/shruti-sridhar) (Computer Science)
 - [Gabe Gaw](https://profiles.stanford.edu/gabriel-gaw) (Computer Science)
 - [Maximilian Du](https://www.maximiliandu.com/) (Computer Science)
