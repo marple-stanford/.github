@@ -4,7 +4,7 @@ Humans have a remarkable ability to figure out what happened. From a puddle of m
 
 In this project, we will take major steps to bridge the gap between vision and language models in AI. We will develop MARPLE (named after the detective Miss Marple) - a computational framework that combines evidence from vision, audio, and language to produce human-understandable explanations of what happened. Current research in cognitive science shows that the human capacity to draw flexible inferences about the physical world, and about each other, is best explained by assuming that people construct mental causal models of the domain, and that they use these models to simulate different counterfactual possibilities. To give explanations of what happened, and to say what caused what, the capacity to go beyond what actually happened and simulate alternative possibilities is critical.
 
-![Marple](profile/marple.jpg)
+![Marple](profile/profile/marple.jpg)
 
 To explain what happened and why, humans build causal models of the world to mentally simulate how the current state of the world came about. MARPLE combines different forms of evidence with different environments to produce explanations of what happened.
 
